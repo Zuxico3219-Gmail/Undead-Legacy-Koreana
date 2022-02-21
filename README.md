@@ -2,7 +2,14 @@
 
 1. [Undead Legacy 2.5.49](#undead-legacy-2549)
 1. [Undead Legacy 2.5.48](#undead-legacy-2548)
-1. [Undead Legacy 2.5.47](#undead-legacy-2547)
+      1. [2.5.48 추가](#2.5.48 추가)
+      2. [2.5.48 삭제](#2.5.48 삭제)
+      3. [2.5.48 변경](#2.5.48 변경)
+3. [Undead Legacy 2.5.47](#undead-legacy-2547)
+      1. [2.5.47 삭제](#2.5.47 삭제)
+      2. [2.5.47 누락](#2.5.47 누락)
+      3. [제가 변경한 것](#제가 변경한 것)
+      4. [용어 정리 기록용](#용어 정리 기록용)
 
 * [Bug](#Bug)
 * [특이사항](#특이사항)
@@ -186,7 +193,7 @@
 # Undead Legacy 2.5.47
 
 
-## 언데드 레거시 EN Localization 2.5.47에서 삭제된 것. 지웠습니다.
+## 2.5.47 삭제
 
 * zombieSteveCrawler,"크롤러"
 * zombieSteveCrawlerFeral,"흉포한 크롤러"
@@ -251,7 +258,9 @@
 
 ---
 
-## 언데드 레거시 KR Localization 2.5.47에서 누락된 것. 일단 제껄로 추가했습니다.
+## 2.5.47 누락
+
+### 일단 제껄로 추가했습니다.
 
 * animalBossGrace,"변종 거대 멧돼지 그레이스"
 * animalCoyote,"코요테"
@@ -350,7 +359,7 @@
 
 ---
 
-## 제가 변경한 것.
+## 제가 변경한 것
 
 1. KEY
     * JellyMan
