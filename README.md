@@ -29,12 +29,12 @@
 ## Bug 
 
 * 드론 전문가 (~2.5.49)
-    * 설명은 25%-200%이나 실제 적용 값은 20%-100%
-          * ulmPerkDroneSpecialist1,"Drone carry weight limit increased by [decea3]25%[-] units"
-          * ulmPerkDroneSpecialist2,"Drone carry weight limit increased by [decea3]50%[-] units"
-          * ulmPerkDroneSpecialist3,"Drone carry weight limit increased by [decea3]100%[-] units"
-          * ulmPerkDroneSpecialist4,"Drone carry weight limit increased by [decea3]150%[-] units"
-          * ulmPerkDroneSpecialist5,"Drone carry weight limit increased by [decea3]200%[-] units"
+     * 설명은 25%-200%이나 실제 적용 값은 20%-100%
+           * ulmPerkDroneSpecialist1,"Drone carry weight limit increased by [decea3]25%[-] units"
+           * ulmPerkDroneSpecialist2,"Drone carry weight limit increased by [decea3]50%[-] units"
+           * ulmPerkDroneSpecialist3,"Drone carry weight limit increased by [decea3]100%[-] units"
+           * ulmPerkDroneSpecialist4,"Drone carry weight limit increased by [decea3]150%[-] units"
+           * ulmPerkDroneSpecialist5,"Drone carry weight limit increased by [decea3]200%[-] units"
 
 ## 특이사항
 
