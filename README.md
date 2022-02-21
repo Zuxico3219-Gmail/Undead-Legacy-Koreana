@@ -4,8 +4,8 @@
 1. [Undead Legacy 2.5.48](#undead-legacy-2548)
 1. [Undead Legacy 2.5.47](#undead-legacy-2547)
 
-* [Bug](##Bug)
-* [특이사항](##특이사항)
+* [Bug](#Bug)
+* [특이사항](#특이사항)
 
 ---
 
