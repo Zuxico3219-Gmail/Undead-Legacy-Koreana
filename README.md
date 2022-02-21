@@ -4,6 +4,9 @@
 1. [Undead Legacy 2.5.48](#undead-legacy-2548)
 1. [Undead Legacy 2.5.47](#undead-legacy-2547)
 
+* [Bug](##Bug)
+* [특이사항](##특이사항)
+
 ---
 
 # Undead Legacy 2.5.49
@@ -13,6 +16,24 @@
     * 방어구 손상도 버프 관련 수정
 
 
+
+---
+
+## Bug 
+
+* 드론 전문가 (~2.5.49)
+    * 설명은 25%-200%이나 실제 적용 값은 20%-100%
+          * ulmPerkDroneSpecialist1,"Drone carry weight limit increased by [decea3]25%[-] units"
+          * ulmPerkDroneSpecialist2,"Drone carry weight limit increased by [decea3]50%[-] units"
+          * ulmPerkDroneSpecialist3,"Drone carry weight limit increased by [decea3]100%[-] units"
+          * ulmPerkDroneSpecialist4,"Drone carry weight limit increased by [decea3]150%[-] units"
+          * ulmPerkDroneSpecialist5,"Drone carry weight limit increased by [decea3]200%[-] units"
+
+## 특이사항
+
+* uiTotal,"Total: {0}"
+* opt0P,"Disabled"
+* opt100P,"Standard"
 
 ---
 
@@ -164,23 +185,6 @@
 
 # Undead Legacy 2.5.47
 
-## Bug 
-
-* 드론 전문가 (~2.5.48)
-    * 설명은 25%-200%이나 실제 적용 값은 20%-100%
-          * ulmPerkDroneSpecialist1,"Drone carry weight limit increased by [decea3]25%[-] units"
-          * ulmPerkDroneSpecialist2,"Drone carry weight limit increased by [decea3]50%[-] units"
-          * ulmPerkDroneSpecialist3,"Drone carry weight limit increased by [decea3]100%[-] units"
-          * ulmPerkDroneSpecialist4,"Drone carry weight limit increased by [decea3]150%[-] units"
-          * ulmPerkDroneSpecialist5,"Drone carry weight limit increased by [decea3]200%[-] units"
-
-## 특이사항
-
-* uiTotal,"Total: {0}"
-* opt0P,"Disabled"
-* opt100P,"Standard"
-
----
 
 ## 언데드 레거시 EN Localization 2.5.47에서 삭제된 것. 지웠습니다.
 
