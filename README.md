@@ -49,25 +49,25 @@
 ## 2.5.48 추가
 
 1. 액션 스킬 레벨업 개별 메시지 -> uiActionSkillLevelUp 하나로 통합
-    * uiActionSkillLevelUp,"Your [decea3]{0}[-] skill has improved to level [decea3]{1}[-]!"
-    * uiActionSkillLevelUp,"[decea3]{0}[-] 액션 스킬이 [decea3]{1}[-] 레벨로 향상되었습니다!"
+     * uiActionSkillLevelUp,"Your [decea3]{0}[-] skill has improved to level [decea3]{1}[-]!"
+     * uiActionSkillLevelUp,"[decea3]{0}[-] 액션 스킬이 [decea3]{1}[-] 레벨로 향상되었습니다!"
 1. 군 잠행용 부츠 설명 추가, armorMilitaryStealthBoots
-    * armorMilitaryStealthBootsDesc,"These boots have no stamina use penalty and muffle noise from movement."
-    * armorMilitaryStealthBootsDesc,"이 부츠는 스태미너 소모 페널티와 이동으로 인한 소음이 없습니다"
+     * armorMilitaryStealthBootsDesc,"These boots have no stamina use penalty and muffle noise from movement."
+     * armorMilitaryStealthBootsDesc,"이 부츠는 스태미너 소모 페널티와 이동으로 인한 소음이 없습니다"
 1. 야간 투시경 설명 바닐라에서 변경
-    * apparelNightvisionGoggles,"Night Vision Goggles"
-    * apparelNightvisionGoggles,"야간 투시경"
-    * apparelNightvisionGogglesDesc,"These night vision goggles provide a little face protection and when activated allow you to see better in the dark."
-    * apparelNightvisionGogglesDesc,"이 야간 투시경은 얼굴을 약간 보호해주고 작동하면 어둠 속에서도 더 잘 볼 수 있습니다."
+     * apparelNightvisionGoggles,"Night Vision Goggles"
+     * apparelNightvisionGoggles,"야간 투시경"
+     * apparelNightvisionGogglesDesc,"These night vision goggles provide a little face protection and when activated allow you to see better in the dark."
+     * apparelNightvisionGogglesDesc,"이 야간 투시경은 얼굴을 약간 보호해주고 작동하면 어둠 속에서도 더 잘 볼 수 있습니다."
 1. 방어구 손상도 버프 추가
-    * Damaged, 손상된
-    * Broken, 부서진
-    * Headgear, 투구
-    * Chest Armor, 가슴 방어구
-    * Gloves, 장갑
-    * Leg Armor, 다리 갑옷
-    * Boots, 부츠
-          * ulmBuffArmorDamagedHead,"Damaged Headgear"
+     * Damaged, 손상된
+     * Broken, 부서진
+     * Headgear, 투구
+     * Chest Armor, 가슴 방어구
+     * Gloves, 장갑
+     * Leg Armor, 다리 갑옷
+     * Boots, 부츠
+     * ulmBuffArmorDamagedHead,"Damaged Headgear"
           * ulmBuffArmorDamagedHead,"손상된 투구"
           * ulmBuffArmorDamagedHeadDesc,"Your [decea3]Headgear[-] is damaged."
           * ulmBuffArmorDamagedHeadDesc,"[decea3]투구[-]가 손상되었습니다."
