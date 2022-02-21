@@ -403,28 +403,6 @@
      * uiMapPlayer
           * "플레이어 현재 위치"
           * "현재 위치"
-1. 정비소 UI
-     * uiUpgrade
-          * "품질 향상"
-          * "강화"
-     * uiUpgradeChance
-          * "품질 향상 확률"
-          * "강화 확률"
-     * uiUpgradeCost
-          * "품질 향상 비용"
-          * "강화 비용"
-     * uiUpgradeFail
-          * "[FF1919]품질 강화 실패[-]"
-          * "[FF1919]강화 실패[-]"
-     * uiUpgradeSuccess
-          * "[73E9B2]품질 강화 성공![-]"
-          * "[73E9B2]강화 성공[-]"
-     * uiUpgradeRemoveMods
-          * "[decea3]개조 부품이 장착된 상태로 강화할 수 없습니다.[-]"
-          * "[decea3]개조 부품 장착됨[-]"
-     * uiUpgradeRequiresRepairs
-          * "[decea3]아이템을 먼저 수리해야 합니다.[-]"
-          * "[decea3]수리 필요[-]"
 1. Baton 관련, 별도의 Electric Perk이 있으므로 '곤봉'과 햇갈리지 않게
      * 모든 Baton 무기/스킬/스킬북 이름을 진압봉으로 변경, 다른 이름으로 변경하고자하면 진압봉으로 찾아 바꾸기.
      * typeBatons
