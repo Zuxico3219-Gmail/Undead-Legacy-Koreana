@@ -116,71 +116,71 @@
 1. ulmMeleeKnifeBayonetDesc,"나무를 잘라 [decea3]송진[-]을 얻는 데 유용하며, 선인장을 잘라 [decea3]유카[-]를 얻는데 좋습니다. 동물 내장을 제거하는데도 유용합니다."
 1. ulmMeleeKnifeCleaver,"식칼"
 1. 액션 스킬 레벨업 통합에 따른 개별 메시지 삭제
-    * actionPerkSniperRiflesLevelUp,"[decea3]저격용 소총[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkArcheryLevelUp,"[decea3]활과 석궁[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkSpearsLevelUp,"[decea3]창[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkLockPickingLevelUp,"[decea3]자물쇠 따기[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkLootingLevelUp,"[decea3]아이템 획득[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkButcherLevelUp,"[decea3]동물 수확[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkStrengthLevelUp,"[decea3]역도[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkAssaultRiflesLevelUp,"[decea3]기관총[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkClubsLevelUp,"[decea3]곤봉[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkSledgehammersLevelUp,"[decea3]슬레지 해머[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkAxesLevelUp,"[decea3]벌목 도구[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkShovelsLevelUp,"[decea3]발굴 도구[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkMiningLevelUp,"[decea3]채광 도구[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkShotgunsLevelUp,"[decea3]샷건[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkBrawlerLevelUp,"[decea3]싸움꾼[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkResistHeatLevelUp,"[decea3]더위 저항[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkResistColdLevelUp,"[decea3]추위 저항[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkResistPainLevelUp,"[decea3]고통 저항[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkHealingLevelUp,"[decea3]회복[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkHandgunsLevelUp,"[decea3]권총[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkBladesLevelUp,"[decea3]검과 단검[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkAthleticsLevelUp,"[decea3]육상[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkSneakingLevelUp,"[decea3]은신[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkAssasinLevelUp,"[decea3]암살[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkSubmachineGunsLevelUp,"[decea3]기관단총[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkExplosivesLevelUp,"[decea3]폭발물[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkShockersLevelUp,"[decea3]진압봉[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkTurretsLevelUp,"[decea3]포탑[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkTradingLevelUp,"[decea3]거래[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkQuestingLevelUp,"[decea3]퀘스트[-] 액션 스킬이 향상되었습니다!"
-    * actionPerkSalvagingLevelUp,"[decea3]분해 도구[-] 액션 스킬이 향상되었습니다!"
-    * 
+     * actionPerkSniperRiflesLevelUp,"[decea3]저격용 소총[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkArcheryLevelUp,"[decea3]활과 석궁[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkSpearsLevelUp,"[decea3]창[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkLockPickingLevelUp,"[decea3]자물쇠 따기[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkLootingLevelUp,"[decea3]아이템 획득[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkButcherLevelUp,"[decea3]동물 수확[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkStrengthLevelUp,"[decea3]역도[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkAssaultRiflesLevelUp,"[decea3]기관총[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkClubsLevelUp,"[decea3]곤봉[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkSledgehammersLevelUp,"[decea3]슬레지 해머[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkAxesLevelUp,"[decea3]벌목 도구[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkShovelsLevelUp,"[decea3]발굴 도구[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkMiningLevelUp,"[decea3]채광 도구[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkShotgunsLevelUp,"[decea3]샷건[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkBrawlerLevelUp,"[decea3]싸움꾼[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkResistHeatLevelUp,"[decea3]더위 저항[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkResistColdLevelUp,"[decea3]추위 저항[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkResistPainLevelUp,"[decea3]고통 저항[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkHealingLevelUp,"[decea3]회복[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkHandgunsLevelUp,"[decea3]권총[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkBladesLevelUp,"[decea3]검과 단검[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkAthleticsLevelUp,"[decea3]육상[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkSneakingLevelUp,"[decea3]은신[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkAssasinLevelUp,"[decea3]암살[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkSubmachineGunsLevelUp,"[decea3]기관단총[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkExplosivesLevelUp,"[decea3]폭발물[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkShockersLevelUp,"[decea3]진압봉[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkTurretsLevelUp,"[decea3]포탑[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkTradingLevelUp,"[decea3]거래[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkQuestingLevelUp,"[decea3]퀘스트[-] 액션 스킬이 향상되었습니다!"
+     * actionPerkSalvagingLevelUp,"[decea3]분해 도구[-] 액션 스킬이 향상되었습니다!" 
+
 ---
 
 ## 2.5.48 변경
 
 1. 진압봉
-    * ulmBookShockers,"Baton Weapons"
-    * ulmBookShockersDesc,"Reading this skill book will increase your level in [decea3]Baton Weapons[-] action skill by [decea3]1[-]."
+     * ulmBookShockers,"Baton Weapons"
+     * ulmBookShockersDesc,"Reading this skill book will increase your level in [decea3]Baton Weapons[-] action skill by [decea3]1[-]."
 1. 아이템 획득, actionPerkLooting
-    * 아이템 획득 속도 8%-40%에서 10%-50%로 변경
-    * actionPerkLooting1,"아이템 획득 속도 [decea3]+10%[-]\n전리품 스테이지 [decea3]+5%[-] 증가"
-    * actionPerkLooting2,"아이템 획득 속도 [decea3]+20%[-]\n전리품 스테이지 [decea3]+10%[-] 증가"
-    * actionPerkLooting3,"아이템 획득 속도 [decea3]+30%[-]\n전리품 스테이지 [decea3]+15%[-] 증가"
-    * actionPerkLooting4,"아이템 획득 속도 [decea3]+40%[-]\n전리품 스테이지 [decea3]+20%[-] 증가"
-    * actionPerkLooting5,"아이템 획득 속도 [decea3]+50%[-]\n전리품 스테이지 [decea3]+25%[-] 증가"
+     * 아이템 획득 속도 8%-40%에서 10%-50%로 변경
+     * actionPerkLooting1,"아이템 획득 속도 [decea3]+10%[-]\n전리품 스테이지 [decea3]+5%[-] 증가"
+     * actionPerkLooting2,"아이템 획득 속도 [decea3]+20%[-]\n전리품 스테이지 [decea3]+10%[-] 증가"
+     * actionPerkLooting3,"아이템 획득 속도 [decea3]+30%[-]\n전리품 스테이지 [decea3]+15%[-] 증가"
+     * actionPerkLooting4,"아이템 획득 속도 [decea3]+40%[-]\n전리품 스테이지 [decea3]+20%[-] 증가"
+     * actionPerkLooting5,"아이템 획득 속도 [decea3]+50%[-]\n전리품 스테이지 [decea3]+25%[-] 증가"
 1. 멋진 교환자, perkBetterBarter
-    * 3,4,5렙에 있던 상인 뒷거래 아이템 수량 보너스 삭제
-    * 사고 파는 아이템 가격 4%-20%에서 5%-25%로 변경
-    * perkBetterBarter1,"상인에게 사고 파는 아이템 가격이 [decea3]5%[-] 좋아짐."
-    * perkBetterBarter2,"상인에게 사고 파는 아이템 가격이 [decea3]10%[-] 좋아짐."
-    * perkBetterBarter3,"상인에게 사고 파는 아이템 가격이 [decea3]15%[-] 좋아짐."
-    * perkBetterBarter4,"상인에게 사고 파는 아이템 가격이 [decea3]20%[-] 좋아짐."
-    * perkBetterBarter5,"상인에게 사고 파는 아이템 가격이 [decea3]25%[-] 좋아짐."
+     * 3,4,5렙에 있던 상인 뒷거래 아이템 수량 보너스 삭제
+     * 사고 파는 아이템 가격 4%-20%에서 5%-25%로 변경
+     * perkBetterBarter1,"상인에게 사고 파는 아이템 가격이 [decea3]5%[-] 좋아짐."
+     * perkBetterBarter2,"상인에게 사고 파는 아이템 가격이 [decea3]10%[-] 좋아짐."
+     * perkBetterBarter3,"상인에게 사고 파는 아이템 가격이 [decea3]15%[-] 좋아짐."
+     * perkBetterBarter4,"상인에게 사고 파는 아이템 가격이 [decea3]20%[-] 좋아짐."
+     * perkBetterBarter5,"상인에게 사고 파는 아이템 가격이 [decea3]25%[-] 좋아짐."
 1. 거래 액션 스킬, actionPerkTrading
-    * 1,2,3,4,5렙에 상인 뒷거래 아이템 수량 보너스 추가
-    * 상인에게 사는 아이템 가격 좋아짐 삭제
-    * 상인에게 파는 아이템 가격 4%-20%에서 5%-25%로 변경
-    * actionPerkTrading1,"상인에게 파는 아이템 가격이 [decea3]5%[-] 좋아짐.\n상인과의 뒷거래 아이템 수량이 [decea3]+1[-] 증가함."
-    * actionPerkTrading2,"상인에게 파는 아이템 가격이 [decea3]10%[-] 좋아짐.\n상인과의 뒷거래 아이템 수량이 [decea3]+2[-] 증가함."
-    * actionPerkTrading3,"상인에게 파는 아이템 가격이 [decea3]15%[-] 좋아짐.\n상인과의 뒷거래 아이템 수량이 [decea3]+3[-] 증가함."
-    * actionPerkTrading4,"상인에게 파는 아이템 가격이 [decea3]20%[-] 좋아짐.\n상인과의 뒷거래 아이템 수량이 [decea3]+4[-] 증가함."
-    * actionPerkTrading5,"상인에게 파는 아이템 가격이 [decea3]25%[-] 좋아짐.\n상인과의 뒷거래 아이템 수량이 [decea3]+5[-] 증가함."
+     * 1,2,3,4,5렙에 상인 뒷거래 아이템 수량 보너스 추가
+     * 상인에게 사는 아이템 가격 좋아짐 삭제
+     * 상인에게 파는 아이템 가격 4%-20%에서 5%-25%로 변경
+     * actionPerkTrading1,"상인에게 파는 아이템 가격이 [decea3]5%[-] 좋아짐.\n상인과의 뒷거래 아이템 수량이 [decea3]+1[-] 증가함."
+     * actionPerkTrading2,"상인에게 파는 아이템 가격이 [decea3]10%[-] 좋아짐.\n상인과의 뒷거래 아이템 수량이 [decea3]+2[-] 증가함."
+     * actionPerkTrading3,"상인에게 파는 아이템 가격이 [decea3]15%[-] 좋아짐.\n상인과의 뒷거래 아이템 수량이 [decea3]+3[-] 증가함."
+     * actionPerkTrading4,"상인에게 파는 아이템 가격이 [decea3]20%[-] 좋아짐.\n상인과의 뒷거래 아이템 수량이 [decea3]+4[-] 증가함."
+     * actionPerkTrading5,"상인에게 파는 아이템 가격이 [decea3]25%[-] 좋아짐.\n상인과의 뒷거래 아이템 수량이 [decea3]+5[-] 증가함."
 1. 운 좋은 약탈자, perkLuckyLooter
-    * 전리품 탐색 속도 8%-40%에서 10%-50%로 변경
+     * 전리품 탐색 속도 8%-40%에서 10%-50%로 변경
           * perkLuckyLooter1,"전리품 탐색 속도가 [decea3]10%[-] 빨라짐.\n전리품 스테이지 [decea3]+5%[-] 증가."
           * perkLuckyLooter2,"전리품 탐색 속도가 [decea3]20%[-] 빨라짐.\n전리품 스테이지 [decea3]+10%[-] 증가."
           * perkLuckyLooter3,"전리품 탐색 속도가 [decea3]30%[-] 빨라짐.\n전리품 스테이지 [decea3]+15%[-] 증가."
@@ -346,150 +346,150 @@
 * rollUpDoor7x4BlackPicked,"롤업 문\n[808080](잠금 해제됨)[-]"
 * rollUpDoor7x4PinkPicked,"롤업 문\n[808080](잠금 해제됨)[-]"
 * ulmDoorWoodDoubleVariantHelper
-    * "Wooden Double Doors"
-    * "나무 쌍여닫이문"
+     * "Wooden Double Doors"
+     * "나무 쌍여닫이문"
 * ulmDoorMetalDoubleVariantHelper
-    * "Metal Double Doors"
-    * "철 쌍여닫이문
+     * "Metal Double Doors"
+     * "철 쌍여닫이문
 * awningShapes:VariantHelper,"차양 형태"
 * materialmatIron,"골진 철"
-* * sectionalPlaidChair
-    * "Old Armchair"
-    * "낡은 안락의자"
+* sectionalPlaidChair
+     * "Old Armchair"
+     * "낡은 안락의자"
 
 ---
 
 ## 제가 변경한 것
 
 1. KEY
-    * JellyMan
-    * Zuxico
+     * JellyMan
+     * Zuxico
 
 1. infectionDesc
-    * "당신은 감염되었습니다. "
-    * "당신은 감염되었습니다. 항생제, 꿀 또는 허브 항생제를 사용하여 감염을 치료하십시오. 치료하지 않으면 점점 약해져서 결국 죽게 됩니다."
+     * "당신은 감염되었습니다. "
+     * "당신은 감염되었습니다. 항생제, 꿀 또는 허브 항생제를 사용하여 감염을 치료하십시오. 치료하지 않으면 점점 약해져서 결국 죽게 됩니다."
 1. statDegradationPerUse
-    * "성능 저하"
-    * "내구도 저하"
+     * "성능 저하"
+     * "내구도 저하"
 1. xuiFeelsLike
-    * "같은 느낌"
-    * "체온"
+     * "같은 느낌"
+     * "체온"
 1. 한/영 어순 차이
-    * lootVehicleEmpty
+     * lootVehicleEmpty
           * "[73E9B2][{0}][-] 열기 {1}{2}\n[808080](비어 있음)[-]"
           * "[73E9B2][{0}][-] {1} 열기{2}\n[808080](비어 있음)[-]"
-    * lootVehicleNew
+     * lootVehicleNew
           * "[73E9B2][{0}][-] 조사 {1}{2}\n[73E9B2](손대지 않음)[-]"
           * "[73E9B2][{0}][-] {1} 조사{2}\n[73E9B2](손대지 않음)[-]"
-    * lootVehicleTouched
+     * lootVehicleTouched
           * "[73E9B2][{0}][-] 열기 {1}{2}"
           * "[73E9B2][{0}][-] {1} 열기{2}"
-    * lootVehicleSecureJammed
+     * lootVehicleSecureJammed
           * "[73E9B2][{0}][-] 사용 {1}{2}\n[808080](걸림)[-]"
           * "[73E9B2][{0}][-] {1} 열기{2}\n[808080](걸림)[-]"
-    * lootVehicleSecureLocked
+     * lootVehicleSecureLocked
           * "[73E9B2][{0}][-] 사용 {1}{2}\n[808080](잠김)[-]"
           * "[73E9B2][{0}][-] {1} 열기{2}\n[808080](잠김)[-]"
-    * lootVehicleSecureUnlocked
+     * lootVehicleSecureUnlocked
           * "[73E9B2][{0}][-] 사용 {1}{2}\n[808080](잠금 해제됨)[-]"
           * "[73E9B2][{0}][-] {1} 열기{2}\n[808080](잠금 해제됨)[-]"
 1. typeCannedFood
-    * "캔 음식"
-    * "통조림"
+     * "캔 음식"
+     * "통조림"
 1. UI 벗어나는 글자
-    * uiMapCursor
+     * uiMapCursor
           * "마우스 커서 좌표"
           * "커서 좌표"
-    * uiMapPlayer
+     * uiMapPlayer
           * "플레이어 현재 위치"
           * "현재 위치"
 1. 정비소 UI
-    * uiUpgrade
+     * uiUpgrade
           * "품질 향상"
           * "강화"
-    * uiUpgradeChance
+     * uiUpgradeChance
           * "품질 향상 확률"
           * "강화 확률"
-    * uiUpgradeCost
+     * uiUpgradeCost
           * "품질 향상 비용"
           * "강화 비용"
-    * uiUpgradeFail
+     * uiUpgradeFail
           * "[FF1919]품질 강화 실패[-]"
           * "[FF1919]강화 실패[-]"
-    * uiUpgradeSuccess
+     * uiUpgradeSuccess
           * "[73E9B2]품질 강화 성공![-]"
           * "[73E9B2]강화 성공[-]"
-    * uiUpgradeRemoveMods
+     * uiUpgradeRemoveMods
           * "[decea3]개조 부품이 장착된 상태로 강화할 수 없습니다.[-]"
           * "[decea3]개조 부품 장착됨[-]"
-    * uiUpgradeRequiresRepairs
+     * uiUpgradeRequiresRepairs
           * "[decea3]아이템을 먼저 수리해야 합니다.[-]"
           * "[decea3]수리 필요[-]"
 1. Baton 관련, 별도의 Electric Perk이 있으므로 '곤봉'과 햇갈리지 않게
-    * 모든 Baton 무기/스킬/스킬북 이름을 진압봉으로 변경, 다른 이름으로 변경하고자하면 진압봉으로 찾아 바꾸기.
-    * typeBatons
+     * 모든 Baton 무기/스킬/스킬북 이름을 진압봉으로 변경, 다른 이름으로 변경하고자하면 진압봉으로 찾아 바꾸기.
+     * typeBatons
           * "단봉"
           * "진압봉"
-    * meleeWpnBatonT2StunBaton
+     * meleeWpnBatonT2StunBaton
           * "전기 호신봉"
           * "전기 진압봉"
-    * meleeWpnBatonT0PipeBaton
+     * meleeWpnBatonT0PipeBaton
           * "파이프 곤봉"
           * "파이프 진압봉"
-    * meleeWpnBatonT0PipeBatonDesc
+     * meleeWpnBatonT0PipeBatonDesc
           * "폐부품과 파이프로 만든 곤봉입니다. 가볍긴 한데, 그래도 제대로 된 한 방을 날릴 수 있습니다."
           * "고물 부품과 파이프로 만든 진압봉입니다. 무게는 가볍지만 괜찮게 두드려팰 수 있습니다."
-    * ulmMeleeBatonPoliceBaton
+     * ulmMeleeBatonPoliceBaton
           * "경찰봉"
           * "경찰 진압봉"
-    * ulmMeleeBatonPoliceBatonDesc
+     * ulmMeleeBatonPoliceBatonDesc
           * "고무를 입힌 플라스틱으로 겉을 감싼 철심이 박혀 있는 표준 경찰봉입니다."
           * "단단한 철심에 고무로 감싼 경찰 표준으로 만든 경찰 진압봉"
-    * ulmMeleeBatonPoliceBatonWithBlade
+     * ulmMeleeBatonPoliceBatonWithBlade
           * "개조된 경찰봉"
           * "사제 경찰 진압봉"
-    * ulmMeleeBatonPoliceBatonWithBladeDesc
+     * ulmMeleeBatonPoliceBatonWithBladeDesc
           * "누군가가 이 경찰봉을 개조해서 진압력이 더 좋아졌습니다."
           * "사제로 개조해 진압성능이 추가된 경찰 진압봉"
-    * perkElectrocutioner,"단봉"
-    * perkElectrocutioner1,"단봉이 [decea3]10%[-]의 추가 데미지를 주며 적을 [decea3]20%[-] 더 오래 기절시킴."
-    * perkElectrocutioner2,"단봉이 [decea3]20%[-]의 추가 데미지를 주며 적을 [decea3]40%[-] 더 오래 기절시킴."
-    * perkElectrocutioner3,"단봉이 [decea3]30%[-]의 추가 데미지를 주며 적을 [decea3]60%[-] 더 오래 기절시킴."
-    * perkElectrocutioner4,"단봉이 [decea3]40%[-]의 추가 데미지를 주며 적을 [decea3]80%[-] 더 오래 기절시킴."
-    * perkElectrocutioner5,"단봉이 [decea3]50%[-]의 추가 데미지를 주며 적을 [decea3]100%[-] 더 오래 기절시킴."
-    * perkElectrocutioner,"진압봉"
-    * perkElectrocutioner1,"진압봉이 [decea3]10%[-]의 추가 데미지를 주며 적을 [decea3]20%[-] 더 오래 기절시킴."
-    * perkElectrocutioner2,"진압봉이 [decea3]20%[-]의 추가 데미지를 주며 적을 [decea3]40%[-] 더 오래 기절시킴."
-    * perkElectrocutioner3,"진압봉이 [decea3]30%[-]의 추가 데미지를 주며 적을 [decea3]60%[-] 더 오래 기절시킴."
-    * perkElectrocutioner4,"진압봉이 [decea3]40%[-]의 추가 데미지를 주며 적을 [decea3]80%[-] 더 오래 기절시킴."
-    * perkElectrocutioner5,"진압봉이 [decea3]50%[-]의 추가 데미지를 주며 적을 [decea3]100%[-] 더 오래 기절시킴."
-    * actionPerkShockers
+     * perkElectrocutioner,"단봉"
+     * perkElectrocutioner1,"단봉이 [decea3]10%[-]의 추가 데미지를 주며 적을 [decea3]20%[-] 더 오래 기절시킴."
+     * perkElectrocutioner2,"단봉이 [decea3]20%[-]의 추가 데미지를 주며 적을 [decea3]40%[-] 더 오래 기절시킴."
+     * perkElectrocutioner3,"단봉이 [decea3]30%[-]의 추가 데미지를 주며 적을 [decea3]60%[-] 더 오래 기절시킴."
+     * perkElectrocutioner4,"단봉이 [decea3]40%[-]의 추가 데미지를 주며 적을 [decea3]80%[-] 더 오래 기절시킴."
+     * perkElectrocutioner5,"단봉이 [decea3]50%[-]의 추가 데미지를 주며 적을 [decea3]100%[-] 더 오래 기절시킴."
+     * perkElectrocutioner,"진압봉"
+     * perkElectrocutioner1,"진압봉이 [decea3]10%[-]의 추가 데미지를 주며 적을 [decea3]20%[-] 더 오래 기절시킴."
+     * perkElectrocutioner2,"진압봉이 [decea3]20%[-]의 추가 데미지를 주며 적을 [decea3]40%[-] 더 오래 기절시킴."
+     * perkElectrocutioner3,"진압봉이 [decea3]30%[-]의 추가 데미지를 주며 적을 [decea3]60%[-] 더 오래 기절시킴."
+     * perkElectrocutioner4,"진압봉이 [decea3]40%[-]의 추가 데미지를 주며 적을 [decea3]80%[-] 더 오래 기절시킴."
+     * perkElectrocutioner5,"진압봉이 [decea3]50%[-]의 추가 데미지를 주며 적을 [decea3]100%[-] 더 오래 기절시킴."
+     * actionPerkShockers
           * "단봉"
           * "진압봉"
-    * actionPerkShockersLevelUp
+     * actionPerkShockersLevelUp
           * "[decea3]단봉[-] 액션 스킬이 향상되었습니다!"
           * "[decea3]진압봉[-] 액션 스킬이 향상되었습니다!"
-    * perkFlurryOfBlows1,"곤봉, 너클, 단검, 도검과 단봉의 공격 속도가 [decea3]10%[-] 증가함. 모든 근접 무기로 적을 처치 시 [decea3]5[-]의 스태미너를 회복함."
-    * perkFlurryOfBlows2,"곤봉, 너클, 단검, 도검과 단봉의 공격 속도가 [decea3]17%[-] 증가함. 모든 근접 무기로 적을 처치 시 [decea3]10[-]의 스태미너를 회복함."
-    * perkFlurryOfBlows3,"곤봉, 너클, 단검, 도검과 단봉의 공격 속도가 [decea3]25%[-] 증가함. 모든 근접 무기로 적을 처치 시 [decea3]20[-]의 스태미너를 회복함."
-    * perkFlurryOfBlows1,"곤봉, 너클, 단검, 도검과 진압봉의 공격 속도가 [decea3]10%[-] 증가함. 모든 근접 무기로 적을 처치 시 [decea3]5[-]의 스태미너를 회복함."
-    * perkFlurryOfBlows2,"곤봉, 너클, 단검, 도검과 진압봉의 공격 속도가 [decea3]17%[-] 증가함. 모든 근접 무기로 적을 처치 시 [decea3]10[-]의 스태미너를 회복함."
-    * perkFlurryOfBlows3,"곤봉, 너클, 단검, 도검과 진압봉의 공격 속도가 [decea3]25%[-] 증가함. 모든 근접 무기로 적을 처치 시 [decea3]20[-]의 스태미너를 회복함."
-    * attIntellectDesc,"[decea3]지능[-] 스킬을 빨리 배울 수 있게 해주고, 다음 무기에 추가 헤드샷 데미지와 사지 절단 확률을 부여합니다.\n[decea3]SMG[-], [decea3]폭발물[-], [decea3]휴대용 포탑[-], [decea3]전기 호신봉[-]"
+     * perkFlurryOfBlows1,"곤봉, 너클, 단검, 도검과 단봉의 공격 속도가 [decea3]10%[-] 증가함. 모든 근접 무기로 적을 처치 시 [decea3]5[-]의 스태미너를 회복함."
+     * perkFlurryOfBlows2,"곤봉, 너클, 단검, 도검과 단봉의 공격 속도가 [decea3]17%[-] 증가함. 모든 근접 무기로 적을 처치 시 [decea3]10[-]의 스태미너를 회복함."
+     * perkFlurryOfBlows3,"곤봉, 너클, 단검, 도검과 단봉의 공격 속도가 [decea3]25%[-] 증가함. 모든 근접 무기로 적을 처치 시 [decea3]20[-]의 스태미너를 회복함."
+     * perkFlurryOfBlows1,"곤봉, 너클, 단검, 도검과 진압봉의 공격 속도가 [decea3]10%[-] 증가함. 모든 근접 무기로 적을 처치 시 [decea3]5[-]의 스태미너를 회복함."
+     * perkFlurryOfBlows2,"곤봉, 너클, 단검, 도검과 진압봉의 공격 속도가 [decea3]17%[-] 증가함. 모든 근접 무기로 적을 처치 시 [decea3]10[-]의 스태미너를 회복함."
+     * perkFlurryOfBlows3,"곤봉, 너클, 단검, 도검과 진압봉의 공격 속도가 [decea3]25%[-] 증가함. 모든 근접 무기로 적을 처치 시 [decea3]20[-]의 스태미너를 회복함."
+     * attIntellectDesc,"[decea3]지능[-] 스킬을 빨리 배울 수 있게 해주고, 다음 무기에 추가 헤드샷 데미지와 사지 절단 확률을 부여합니다.\n[decea3]SMG[-], [decea3]폭발물[-], [decea3]휴대용 포탑[-], [decea3]전기 호신봉[-]"
 1. groupVariantHelpers
-    * "Variant Helpers"
-    * "변형 도우미"
+     * "Variant Helpers"
+     * "변형 도우미"
 1. gold
-    * "Gold"
-    * "금"
+     * "Gold"
+     * "금"
 1. typePoweredCutting
-    * "전동 절단 도구"
-    * "전동 벌목 도구"
+     * "전동 절단 도구"
+     * "전동 벌목 도구"
 1. 클로 해머 -> 장도리
-    * meleeToolRepairT1ClawHammer,"클로 해머"
-    * meleeToolRepairT1ClawHammerBlueprint,"클로 해머 도면"
+     * meleeToolRepairT1ClawHammer,"클로 해머"
+     * meleeToolRepairT1ClawHammerBlueprint,"클로 해머 도면"
 1. 임팩트 드라이버, 실제 플레이어들이 다른 '전동' 도구와 햇갈려함.
-    * 전동 드릴 -> 임팩트 드라이버
+     * 전동 드릴 -> 임팩트 드라이버
           * meleeToolSalvageT3ImpactDriver,"전동 드릴"
           * meleeToolSalvageT3ImpactDriverSchematic, "전동 드릴 도면"        
           * perkSalvageOperations1,"렌치, 라쳇, 전동 드릴같은 분해 도구가 [decea3]10%[-] 추가 데미지를 주며 분해 시 자원을 [decea3]10%[-] 더 많이 획득함."
@@ -499,40 +499,40 @@
           * perkSalvageOperations5,"렌치, 라쳇, 전동 드릴같은 분해 도구가 [decea3]50%[-] 추가 데미지를 주며 분해 시 자원을 [decea3]50%[-] 더 많이 획득함."
           * abandonedVehicleRepairTip,"가끔 수리 가능한 차량을 발견할 수도 있습니다. 차량의 종류에 따라 수리에 필요한 키트가 다릅니다.\n자전거 - 자전거 수리 키트,\n미니바이크 - 미니바이크 수리 키트,\n오토바이 - 오토바이 수리 키트,\n자동차 - 자동차 수리 키트,\n두돈반 트럭 - 트럭 수리 키트.\n\n[decea3]수리 가능[-]한 차량을 수리하려면 [decea3]렌치[-], [decea3]라쳇[-] 또는 [decea3]전동 드릴[-]을 손에 들고 인벤토리에 차량의 종류와 매칭되는 [decea3]수리 키트[-]를 가지고 있어야 합니다. 그리고 [decea3]수리 가능[-]한 차량 앞에 서서 상호 작용 키(기본: [decea3]E[-])를 누른 채 나오는 다이얼 메뉴에서 수리 항목을 선택하여 수리할 수 있습니다."
 1. 락픽->자물쇠 따개, 실핀->머리핀
-    * blockcommand_pick1
+     * blockcommand_pick1
           * "자물쇠 따기\n[808080](락픽)[-]"
           * "자물쇠 따기\n[808080](자물쇠 따개)[-]"
-    * blockcommand_pick2
+     * blockcommand_pick2
           * "자물쇠 따기\n[808080](실핀)[-]"
           * "자물쇠 따기\n[808080](머리핀)[-]"
-    * uiLockAutoPick
+     * uiLockAutoPick
           * "자동 해제"
           * "자동 따기"
-    * uiLockAutoPickChance
+     * uiLockAutoPickChance
           * "자동 해제 확률: [decea3]{0}%[-]"
           * "자동 따기 확률: [decea3]{0}%[-]"
-    * drugJailBreakersDesc
+     * drugJailBreakersDesc
           * "잠시 동안 자물쇠 따기 스킬과 도구(락픽, 실핀)의 내구도를 [decea3]200%[-] 향상시킵니다."
           * "일시적으로 자물쇠 따는 기술이 증가하고 자물쇠 따기 도구의 내구도를 [decea3]200%[-] 향상시킵니다."
-    * resourceLockPick
+     * resourceLockPick
           * "락픽"
           * "자물쇠 따개"
-    * resourceLockPickDesc
+     * resourceLockPickDesc
           * "인벤토리에 락픽을 가지고 있으면 E키를 누른 상태로 자물쇠 따기를 시도할 수 있습니다.\n도구 벨트 위에 장착되어 있지 않아도 됩니다."
           * "인벤토리에 자물쇠 따개가 있으면 'E'키를 꾹 누르고 자물쇠 따기 행동으로 잠긴 것을 딸 수 있습니다.\n자물쇠 따개를 도구 벨트에 장착할 필요는 없습니다."
-    * resourceLockPickBlueprint
+     * resourceLockPickBlueprint
           * "락픽 도면"
           * "자물쇠 따개 도면"
-    * ulmResourceBobbyPin
+     * ulmResourceBobbyPin
           * "실핀"
           * "머리핀"
-    * ulmResourceBobbyPinDesc
+     * ulmResourceBobbyPinDesc
           * "일반적인 금속으로 만든 머리핀입니다. 머리카락을 고정하는 데 쓰거나 급한 대로 락픽처럼 쓸 수 있습니다."
           * "쇠로 만든 것 같은 재질의 머리핀입니다. 머리카락을 고정하는데 쓰거나 급한 대로 자물솨 따개처럼 쓸 수 있습니다.
-    * ulmResourceBobbyPinBlueprint
+     * ulmResourceBobbyPinBlueprint
           * "실핀 도면"
           * "머리핀 도면"
-    * 자물쇠 따기 레벨 -> 자물쇠 따는 기술 (drugJailBreakersDesc)
+     * 자물쇠 따기 레벨 -> 자물쇠 따는 기술 (drugJailBreakersDesc)
           * perkLockPicking1,"자물쇠 따기 레벨 [decea3]+25[-] 증가.\n락픽과 실핀이 [decea3]20%[-]의 추가 내구도를 가짐."
           * perkLockPicking2,"자물쇠 따기 레벨 [decea3]+50[-] 증가.\n락픽과 실핀이 [decea3]40%[-]의 추가 내구도를 가짐."
           * perkLockPicking3,"자물쇠 따기 레벨 [decea3]+75[-] 증가.\n락픽과 실핀이 [decea3]60%[-]의 추가 내구도를 가짐."
@@ -551,124 +551,124 @@
           * actionPerkLockPicking3,"자물쇠 따는 기술 [decea3]+60[-] 증가.\n자물쇠 따개와 머리핀의 내구도 [decea3]60%[-] 향상"
           * actionPerkLockPicking4,"자물쇠 따는 기술 [decea3]+80[-] 증가.\n자물쇠 따개와 머리핀의 내구도 [decea3]80%[-] 향상"
           * actionPerkLockPicking5,"자물쇠 따는 기술 [decea3]+100[-] 증가.\n자물쇠 따개와 머리핀의 내구도 [decea3]100%[-] 향상"
-    * perkGreatHeistCompleteDesc
+     * perkGreatHeistCompleteDesc
           * "자물쇠 따기 레벨이 [decea3]+25[-] 증가하며\n[decea3]실핀[-] 제작 방법을 해금하고 [decea3]실핀[-]과 [decea3]락픽[-] 내구도가 [decea3]25%[-] 증가합니다."
           * "[decea3]자물쇠 따는 기술 +25[-] 증가.\n[decea3]머리핀[-] 제작 방법을 해금하고 [decea3]머리핀[-]과 [decea3]자물쇠 따개[-]의 내구도가 [decea3]25%[-] 증가합니다."
-    * perkGreatHeistCompleteLongDesc
+     * perkGreatHeistCompleteLongDesc
           * "자물쇠 따는 기술이 [decea3]+25[-] 증가하며\n[decea3]실핀[-] 제작 방법을 해금하고 [decea3]실핀[-]과 [decea3]락픽[-] 내구도가 [decea3]25%[-] 증가합니다."
           * "[decea3]자물쇠 따는 기술 +25[-] 증가.\n[decea3]머리핀[-] 제작 방법을 해금하고 [decea3]머리핀[-]과 [decea3]자물쇠 따개[-]의 내구도가 [decea3]25%[-] 증가합니다."
 1. 제작품이 바닐라 번역인 경우 도면을 바닐라 번역에 맞게 변경
-    * tripwirepostBlueprint
+     * tripwirepostBlueprint
           * "와이어 함정 도면"
           * "와이어 함정 구역 도면"
 1. Powered, 바닐라 번역은 (전원 연결됨), (전력 필요)로 변경하고 제작품 key 없는 것은 최하단에 추가
-    * garageDoorMetal_v1PoweredBlueprint,"강철 차고 문 3x2 (전력 필요) 도면"
-    * vaultDoor03_PoweredBlueprint,"금고 문 03 (전력 필요) 도면"
-    * vaultHatch_v3_PoweredBlueprint,"금고 해치 v3 (전력 필요) 도면"
-    * garageDoorIndustrial_PoweredBlueprint,"금속 차고 문 5x3 (전력 필요) 도면"
-    * metalReinforcedWoodDrawBridgePoweredBlueprint,"강화형 도개교 (전력 필요) 도면"
-    * ulmDoorSciFi01PoweredBlueprint,"철제 보안 출입문 (전력 필요) 도면"
-    * ulmDoorSciFi02PoweredBlueprint,"철제 보안 유리 출입문 (전력 필요) 도면"
-    * ulmDoorSciFi03PoweredBlueprint,"철제 보안 게이트 (전력 필요) 도면"
-    * ulmDoorSciFi04PoweredBlueprint,"철제 보안 방폭문 (전력 필요) 도면"
-    * ulmDoorSciFi01Powered,"철제 보안 출입문 (전력 필요)"
-    * ulmDoorSciFi02Powered,"철제 보안 유리 출입문 (전력 필요)"
-    * ulmDoorSciFi03Powered,"철제 보안 게이트 (전력 필요)"
-    * ulmDoorSciFi04Powered,"철제 보안 방폭문 (전력 필요)"
-    * 최하단에 추가
+     * garageDoorMetal_v1PoweredBlueprint,"강철 차고 문 3x2 (전력 필요) 도면"
+     * vaultDoor03_PoweredBlueprint,"금고 문 03 (전력 필요) 도면"
+     * vaultHatch_v3_PoweredBlueprint,"금고 해치 v3 (전력 필요) 도면"
+     * garageDoorIndustrial_PoweredBlueprint,"금속 차고 문 5x3 (전력 필요) 도면"
+     * metalReinforcedWoodDrawBridgePoweredBlueprint,"강화형 도개교 (전력 필요) 도면"
+     * ulmDoorSciFi01PoweredBlueprint,"철제 보안 출입문 (전력 필요) 도면"
+     * ulmDoorSciFi02PoweredBlueprint,"철제 보안 유리 출입문 (전력 필요) 도면"
+     * ulmDoorSciFi03PoweredBlueprint,"철제 보안 게이트 (전력 필요) 도면"
+     * ulmDoorSciFi04PoweredBlueprint,"철제 보안 방폭문 (전력 필요) 도면"
+     * ulmDoorSciFi01Powered,"철제 보안 출입문 (전력 필요)"
+     * ulmDoorSciFi02Powered,"철제 보안 유리 출입문 (전력 필요)"
+     * ulmDoorSciFi03Powered,"철제 보안 게이트 (전력 필요)"
+     * ulmDoorSciFi04Powered,"철제 보안 방폭문 (전력 필요)"
+     * 최하단에 추가
           * garageDoorMetal_v1Powered,""강철 차고 문 3x2 (전력 필요)"
           * vaultDoor03_Powered,"금고 문 03 (전력 필요)"
           * vaultHatch_v3_Powered,금고 해치 v3 (전력 필요)"
           * garageDoorIndustrial_Powered,금속 차고 문 5x3 (전력 필요)
           * metalReinforcedWoodDrawBridgePowered,강화형 도개교 (전력 필요)
 1. 한 번에 여러개도 다운된다고 합니다.
-    * actionSkillDeathPenalty
+     * actionSkillDeathPenalty
           * "기억 상실을 겪어 [decea3]액션 스킬[-] 중 하나의 레벨이 다운되었습니다."
           * "기억 상실을 겪어 일부 [decea3]액션 스킬[-]의 레벨이 1 다운되었습니다."
 1. 소드오프 샷건 개조 -> 총신 절단 샷건 개조(바닐라 번역)
-    * modShotgunSawedOffBarrel,"소드오프 샷건 개조"
-    * modShotgunSawedOffBarrelSchematic,"소드오프 샷건 개조"
+     * modShotgunSawedOffBarrel,"소드오프 샷건 개조"
+     * modShotgunSawedOffBarrelSchematic,"소드오프 샷건 개조"
 1. 물 펌프
-    * ulmBlockWaterpumpDesc
+     * ulmBlockWaterpumpDesc
           * "방사능으로 덜 오염된 토양 깊숙한 곳에서 탁한 물(게임 내 1 시간마다 1 수치)을 천천히 다시 퍼 올립니다."
           * "토양 깊숙한 곳에서 방사능에 덜 오염된 탁한 물(게임시간 1 시간마다 1 개)을 천천히 퍼 올립니다."
 1. 원시적인 우물
-    * ulmCollectorWellWoodDesc
+     * ulmCollectorWellWoodDesc
           * "방사능으로 덜 오염된 토양 깊숙한 곳에서 탁한 물(게임 내 2 시간마다 1 수치)을 천천히 다시 퍼 올립니다."
           * "토양 깊숙한 곳에서 방사능에 덜 오염된 탁한 물(게임시간 2 시간마다 1 개)을 천천히 퍼 올립니다."
 1. 도로 안전 바리케이드
-    * ulmLightRoadBarricadePlayerDesc
+     * ulmLightRoadBarricadePlayerDesc
           * "조명을 켜고 유지하기에 충분한 전력을 생성하기 위해 배터리가 내장되어 있습니다."
           * "배터리가 내장되어 있어 충분한 전력을 생산해 조명을 계속 켜둘 수 있습니다."
 1. 군용 트럭 -> 두돈반 트럭
-    * ulmVehicleMilitaryTruck,"두돈반 트럭"
-    * ulmVehicleMilitaryTruckDesertTarp1,"두돈반 트럭"
-    * ulmVehicleMilitaryTruckDesertTarp2,"두돈반 트럭"
-    * ulmVehicleMilitaryTruckDesertTarp3,"두돈반 트럭"
-    * ulmVehicleMilitaryTruckDesertRails,"두돈반 트럭"
-    * ulmVehicleMilitaryTruckCamoTarp1,"두돈반 트럭"
-    * ulmVehicleMilitaryTruckCamoTarp2,"두돈반 트럭"
-    * ulmVehicleMilitaryTruckCamoTarp3,"두돈반 트럭"
-    * ulmVehicleMilitaryTruckCamoRails,"두돈반 트럭"
+     * ulmVehicleMilitaryTruck,"두돈반 트럭"
+     * ulmVehicleMilitaryTruckDesertTarp1,"두돈반 트럭"
+     * ulmVehicleMilitaryTruckDesertTarp2,"두돈반 트럭"
+     * ulmVehicleMilitaryTruckDesertTarp3,"두돈반 트럭"
+     * ulmVehicleMilitaryTruckDesertRails,"두돈반 트럭"
+     * ulmVehicleMilitaryTruckCamoTarp1,"두돈반 트럭"
+     * ulmVehicleMilitaryTruckCamoTarp2,"두돈반 트럭"
+     * ulmVehicleMilitaryTruckCamoTarp3,"두돈반 트럭"
+     * ulmVehicleMilitaryTruckCamoRails,"두돈반 트럭"
 
 ---
 
 ## 용어 정리 기록용
 
 1. uiAmmoAndExplosives
-    * "탄약/폭약"
-    * "탄약/폭발물"
+     * "탄약/폭약"
+     * "탄약/폭발물"
 1. 갑옷 -> 방어구
-    * uiArmor
+     * uiArmor
           * "갑옷"
           * "방어구"
-    * uiClothingAndArmor
+     * uiClothingAndArmor
           * "의복/갑옷"
           * "의복/방어구"
-    * uiClothingArmorMods
+     * uiClothingArmorMods
           * "의복/갑옷 개조"
           * "의복/방어구 개조"
-    * statArmorRating
+     * statArmorRating
           * "갑옷 등급"
           * "방어구 등급"
-    * typeArmor
+     * typeArmor
           * "갑옷"
           * "방어구"
-    * groupClothingAndArmor
+     * groupClothingAndArmor
           * "의복/갑옷"
           * "의복/방어구"
-    * modArmorPlatingBasic
+     * modArmorPlatingBasic
           * "갑옷 플레이트 추가 개조"
           * "방어구 플레이트 추가 개조"
-    * modArmorPlatingBasicSchematic
+     * modArmorPlatingBasicSchematic
           * "갑옷 플레이트 추가 개조 도면"
           * "방어구 플레이트 추가 개조 도면"
-    * modArmorPlatingReinforced
+     * modArmorPlatingReinforced
           * "고급 갑옷 플레이트 추가 개조"
           * "고급 방어구 플레이트 추가 개조"
-    * modArmorPlatingReinforcedSchematic
+     * modArmorPlatingReinforcedSchematic
           * "고급 갑옷 플레이트 추가 개조 도면"
           * "고급 방어구 플레이트 추가 개조 도면"
 1. 보관함/저장소
-    * uiContainer
+     * uiContainer
           * "저장소"
           * "보관함"
-    * groupLoot
+     * groupLoot
           * "저장소"
           * "보관함"
-    * groupStorage
+     * groupStorage
           * "보관함"
           * "저장소"
-    * typeLoot
+     * typeLoot
           * "저장소"
           * "보관함"
 1. ui KEY /로 통일
-    * uiExplosivesAndMines
+     * uiExplosivesAndMines
           * "폭발물과 지뢰"
           * "폭발물/지뢰"
-    * groupWeaponsTools,"무기/도구"
+     * groupWeaponsTools,"무기/도구"
 1. 자동차 용어 통일
-    * typeAutomotive
+     * typeAutomotive
           * "차량"
           * "자동차"
-    * groupAutomotive,"자동차"
+     * groupAutomotive,"자동차"
