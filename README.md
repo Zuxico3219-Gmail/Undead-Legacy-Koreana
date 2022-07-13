@@ -15,6 +15,10 @@
 * [Bug](#Bug)
 * [특이사항](#특이사항)
 
+
+
+# 0-Score
+
 ---
 
 # Undead Legacy 2.5.82
