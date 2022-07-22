@@ -15,10 +15,6 @@
 * [Bug](#Bug)
 * [특이사항](#특이사항)
 
-
-
-# Boat_Modlet_V6_A20
-
 ---
 
 # Undead Legacy 2.5.82
